@@ -1,0 +1,14 @@
+{
+  "id": "anydo",
+  "name": "Any.do",
+  "version": "1.0.2",
+  "description": "Facebook Messenger",
+  "main": "index.js",
+  "author": "Brandon Grant <brandon@highpeak.co.za>",
+  "license": "MIT",
+  "repository": "https://github.com/Artiiz-ZA/franz-recipes/anydo",
+  "config": {
+    "serviceURL": "https://desktop.any.do",
+    "hasNotificationSound": true
+  }
+}
